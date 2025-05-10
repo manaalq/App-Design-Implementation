@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:meal_planner/chat_screen.dart';
+import 'package:meal_planner/screens/chat_screen.dart';
 import 'package:meal_planner/screens/gercery_list_screen.dart';
 import 'package:meal_planner/screens/home_screen.dart';
 import 'package:meal_planner/screens/meal_plan_screen.dart';
